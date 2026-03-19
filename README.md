@@ -98,7 +98,7 @@ Detected products present multiple times, representing different SKUs
 Identified and removed rows where MRP or discounted selling price was zero
 
 Converted mrp and discountedSellingPrice from paise to rupees for consistency and readability
-![image](https://user-images.githubusercontent.com/....png)
+
 
 5. 📊 Business Insights
    
