@@ -114,11 +114,11 @@ Ranked top 5 categories offering highest average discounts
 
 Calculated price per gram to identify value-for-money products
 
-
-6. Dashboard Overview
-7. [Dashboard]()
-
 Grouped products based on weight into Low, Medium, and Bulk categories
 
 Measured total inventory weight per product category
+
+
+6. Dashboard Overview
+   ![Dashboard](https://github.com/SagarSh2890/Zepto_Data_Analysis/blob/main/Screenshot%20(231).png)
 
