@@ -78,7 +78,7 @@ quantity Integer
 );
 
 
-3. 🔍 Data Exploration
+2. 🔍 Data Exploration
    
 Counted the total number of records in the dataset
 
@@ -93,14 +93,14 @@ Compared in-stock vs out-of-stock product counts
 Detected products present multiple times, representing different SKUs
 
 
-4. 🧹 Data Cleaning
+3. 🧹 Data Cleaning
    
 Identified and removed rows where MRP or discounted selling price was zero
 
 Converted mrp and discountedSellingPrice from paise to rupees for consistency and readability
 
 
-5. 📊 Business Insights
+4. 📊 Business Insights
    
 Found top 10 best-value products based on discount percentage
 
@@ -119,6 +119,6 @@ Grouped products based on weight into Low, Medium, and Bulk categories
 Measured total inventory weight per product category
 
 
-6. Dashboard Overview
+5. Dashboard Overview
    ![Dashboard](https://github.com/SagarSh2890/Zepto_Data_Analysis/blob/main/Screenshot%20(231).png)
 
