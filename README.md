@@ -1,5 +1,5 @@
 # Zepto_Data_Analysis
-
+![Revenue Chart](images/revenue.png)
 📌 Project Overview
 
 The goal is to simulate how actual data analysts in the e-commerce or retail industries work behind the scenes to use SQL to:
